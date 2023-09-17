@@ -2,7 +2,7 @@ import {  Routes , Route } from 'react-router-dom';
 import { Box } from '@mui/material'
 // import { Feed , SearchFeed , Navbar , VideoDetail , ChannelDetail } from './components';
 
-import './App.css'
+import './App.css';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import ExerciseDetails from './pages/ExerciseDetails';
